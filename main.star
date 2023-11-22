@@ -1,5 +1,5 @@
-postgres = import_module("github.com/kurtosis-tech/postgres-package")
-redis = import_module("github.com/kurtosis-tech/redis-package")
+postgres = import_module("github.com/kurtosis-tech/postgres-package/main.star")
+redis = import_module("github.com/kurtosis-tech/redis-package/main.star")
 # colorstack_backend = import_module("...")
 
 def run(plan):
