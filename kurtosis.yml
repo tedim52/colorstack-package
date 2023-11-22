@@ -1,0 +1,4 @@
+name: github.com/tedim52/colorstack-package
+description: |-
+  Spins up the architecture for colorstacks codebase. Namely, our frontend, backend, postgres, and redis services.
+replace: {}
